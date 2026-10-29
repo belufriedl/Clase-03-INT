@@ -1,2 +1,17 @@
 # Clase-03-INT
-Clase 03 Intensivo 
+## CUADERNO DE GEMINI DE LA MATERIA: LEGISLACION
+**DESCRIPCION**
+* Utilizo los siguientes componentes de STUDIO:
+ * MAPA MENTAL: XXX
+ * PRESENTACIONES: XXX
+ * INFOGRAFIA: XXX
+ * VIDEO EXPLICATIVO: XXX
+ * PODCAST: XXX
+ * TABLA DE DATOS: XXX
+ * TARJETA DIDACTICA: XXX
+ * INFORME: XXX
+
+
+---
+
+ADJUNTO LINK: [[CUADERNO](https://notebook.google.com/notebook/9d0395c3-72ff-4763-ba8a-5f7f960beef2?authuser=2)]
